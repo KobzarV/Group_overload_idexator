@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Group_overload_idexator", "Group_overload_idexator.csproj", "{AFBB6341-9217-4FBD-BA9F-1509AA3533D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFBB6341-9217-4FBD-BA9F-1509AA3533D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFBB6341-9217-4FBD-BA9F-1509AA3533D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFBB6341-9217-4FBD-BA9F-1509AA3533D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFBB6341-9217-4FBD-BA9F-1509AA3533D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE134E69-7A1A-44F9-9EE8-E909C917451E}
+	EndGlobalSection
+EndGlobal
